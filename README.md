@@ -15,8 +15,6 @@ create file <output.txt> with the output from VimGolf
 
 :e solvim.txt
 
-Insert text from  with gvim : 
-
 :0r input.txt
 
 
