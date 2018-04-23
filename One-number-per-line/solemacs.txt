@@ -1,0 +1,1 @@
+C-e C-k C-e C-k c-e backspace F3 M-b backspace
