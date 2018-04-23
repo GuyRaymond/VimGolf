@@ -18,3 +18,10 @@ create file <output.txt> with the output from VimGolf
 Insert text from  with gvim : 
 
 :0r input.txt
+
+
+# Open emacs
+
+C-x C-f solemacs.txt
+
+C-x i input.txt
