@@ -1,7 +1,7 @@
 # VimGolf
 Solve problems from https://vimgolf.com/ with gvim and emacs
 
-# Start
+# Start solving a problem
 
 mkdir solve
 
