@@ -16,13 +16,13 @@ F4
 ```
 C-k C-k
 C-k C-k
-C-M-S-%
+M-S-%
 C-q C-j <RET> 
 <RET>
 !
 <Backspace>
 C-a
-C-M-S-%
+M-S-%
 , <RET>
 C-q C-j <RET> 
 !
