@@ -1,7 +1,7 @@
 # VimGolf
 Solve problems from https://vimgolf.com/ with gvim and emacs
 
-** I use a French keyboard (AZERTY) **
+**I use a French keyboard (AZERTY)**
 
 # Start solving a problem
 
