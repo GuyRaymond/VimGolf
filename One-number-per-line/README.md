@@ -1,4 +1,4 @@
-One number per line
+[One number per line](https://vimgolf.com/challenges/56fb2e75ccffcc0009026473)
 
 Just give me the numbers.
 
