@@ -1,1 +1,10 @@
-C-e C-k C-e C-k C-e backspace F3 M-b backspace ret C-p C-e F4 C-S-8 F4
+C-k C-k
+C-e C-k 
+C-e C-k 
+C-e <Backspace>
+F3
+M-b <Backspace> <RET>
+C-p C-e
+F4
+C-S-8
+F4
