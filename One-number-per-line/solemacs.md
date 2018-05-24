@@ -1,5 +1,14 @@
+# First solution
 ```
-2
-4
-6
+C-k C-k
+C-k C-k
+C-e C-k 
+C-e C-k 
+C-e <Backspace>
+F3
+M-b <Backspace> <RET>
+C-p C-e
+F4
+C-S-8
+F4
 ```
