@@ -12,3 +12,18 @@ F4
 C-S-8
 F4
 ```
+# Second solution
+```
+C-k C-k
+C-k C-k
+C-M-S-%
+C-q C-j <RET> 
+<RET>
+!
+<Backspace>
+C-a
+C-M-S-%
+, <RET>
+C-q C-j <RET> 
+!
+```
