@@ -17,6 +17,8 @@ create file <output.txt> with the output from VimGolf
 
 # Open gvim
 
+:cd problem_name
+
 :e outputvim.txt
 
 :1r input.txt
