@@ -17,15 +17,15 @@ create file <output.txt> with the output from VimGolf
 
 # Open gvim
 
-:e outputvim.txt <Enter>
+:e outputvim.txt
 
-:1r input.txt <Enter>
+:1r input.txt
 
-:1d <Enter>
+:1d
 
 
 # Open emacs
 
-C-x C-f outputemacs.txt <Enter>
+C-x C-f outputemacs.txt
 
-C-x i input.txt <Enter>
+C-x i input.txt
