@@ -9,20 +9,20 @@ F3
 M-b <Backspace> <RET>
 C-p C-e
 F4
-C-S-8
+C-8
 F4
 ```
 # Second solution
 ```
 C-k C-k
 C-k C-k
-M-S-%
+M-%
 C-q C-j <RET> 
 <RET>
 !
 <Backspace>
 C-a
-M-S-%
+M-%
 , <RET>
 C-q C-j <RET> 
 !
