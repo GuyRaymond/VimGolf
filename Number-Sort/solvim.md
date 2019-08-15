@@ -1,4 +1,4 @@
 ```
-sort n
-:w
+:sort n<CR>
+:w<CR>
 ```
