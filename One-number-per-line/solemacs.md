@@ -11,6 +11,7 @@ C-p C-e
 F4
 C-8
 F4
+C-x C-s
 ```
 # Second solution
 ```
@@ -26,4 +27,5 @@ M-%
 , <RET>
 C-q C-j <RET> 
 !
+C-x C-s
 ```

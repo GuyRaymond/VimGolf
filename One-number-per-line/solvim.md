@@ -9,6 +9,7 @@ F,s <CR> <Esc>
 k$
 q
 8@q
+:w
 ```
 
 # Second solution
@@ -19,4 +20,5 @@ q
 $x
 :%s/,/\r/g
 <CR>
+:w
 ```
