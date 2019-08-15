@@ -17,22 +17,22 @@ create file <output.txt> with the output from VimGolf
 
 # Open gvim
 ```
-:cd problem_name
+:cd problem_name<CR>
 
-:e outputvim.txt
+:e outputvim.txt<CR>
 
-:r input.txt
+:r input.txt<CR>
 
-:1d
+:1d<CR>
 ```
 
 
 # Open emacs
 
 ```
-C-x d problem_name
+M-x cd<RET> problem_name<RET>
 
-C-x C-f outputemacs.txt
+C-x C-f outputemacs.txt<RET>
 
-C-x i input.txt
+C-x i input.txt<RET>
 ```
