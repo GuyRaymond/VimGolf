@@ -4,6 +4,8 @@
 
 # remove lines containing the word "reader"
 
+easy stuff
+
 **Start file**
 ```
 aklfdjwi37u8rifa a8fdiy 8837r asfyf3y reader

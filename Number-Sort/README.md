@@ -1,5 +1,13 @@
 [Number Sort](https://www.vimgolf.com/challenges/5b0ba8a4dd701305aeb59201)
 
+```
+| emacs                | GVIM        |
+|----------------------+-------------|
+| C-x h                | :sort n<CR> |
+| M-x sort-n<Tab><RET> | :w<CR>      |
+| C-x C-s              |             | 
+```
+
 # Number Sort
 
 sort the list of newline-separated numbers incrementally. Numbers are in the range 1 to 1000, with 500 missing
