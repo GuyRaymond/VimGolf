@@ -2,6 +2,14 @@
 
 [remove lines containing the word "reader"][to solve]
 
+```
+| emacs             | GVIM            |
+|-------------------+-----------------|
+| M-x flu<TAB><RET> | :g/reader/d<CR> |
+| reader<RET>       | :w<CR>          |
+| C-x C-s           |                 |
+```
+
 # remove lines containing the word "reader"
 
 easy stuff
