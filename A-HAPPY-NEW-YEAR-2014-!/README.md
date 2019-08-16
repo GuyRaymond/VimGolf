@@ -1,5 +1,7 @@
 [to solve]:https://www.vimgolf.com/challenges/52c3cb0d9b8634000200000e
 
+[A HAPPY NEW YEAR 2014 !][to solve]
+
 ```
 |-----------------------------------+---------------------|
 | emacs                             | GVIM                |
@@ -9,8 +11,6 @@
 |                                   |                     |
 |-----------------------------------+---------------------|
 ```
-
-[A HAPPY NEW YEAR 2014 !][to solve]
 
 # A HAPPY NEW YEAR 2014 !
 
