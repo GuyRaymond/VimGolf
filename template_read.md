@@ -1,4 +1,4 @@
-[to solve]:https://vimgolf.com
+[to solve]:
 
 [Title][to solve]
 
@@ -8,17 +8,20 @@
 |-------+------|
 |       |      |
 |-------+------|
-|       |      |
 ```
 
 # Title
 
+
+
 **Start file**
+
 ```
 
 ```
 
 **End file**
+
 ```
 
 ```
