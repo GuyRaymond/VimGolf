@@ -8,7 +8,7 @@
 |-----------------------------------+----------------------|
 | C-5 C-n C-<SPC> C-n M-w C-y C-b   | :t6f1c$7<SPC>11<ESC> |
 | <Backspace><Backspace><Backspace> | GONew<SPC>text.<ESC> |
-| 7 <SPC> 11 M-g M-g 10 <RET> C-j   | <RET> :w             |
+| 7 <SPC> 11 M-g M-g 10 <RET> C-j   | <CR> :w<CR>          |
 | New<SPC>Text. C-o C-x C-s         |                      |
 |-----------------------------------+----------------------|
 
