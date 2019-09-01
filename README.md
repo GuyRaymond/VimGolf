@@ -21,9 +21,7 @@ create file <output.txt> with the output from VimGolf
 
 :e outputvim.txt<CR>
 
-:r input.txt<CR>
-
-:1d<CR>
+:0r input.txt<CR>
 ```
 
 
@@ -34,5 +32,5 @@ M-x cd<RET> problem_name<RET>
 
 C-x C-f outputemacs.txt<RET>
 
-C-x i input.txt<RET>
+C-x i input.txt
 ```
