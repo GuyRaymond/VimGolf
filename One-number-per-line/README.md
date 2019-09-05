@@ -5,12 +5,12 @@
 | emacs                            | GVIM                             |
 |----------------------------------+----------------------------------|
 | C-2 C-k C-e C-k C-e C-k          | dj 3gJ $x                        |
-| C-e <Backspace> F3               | qq F,s <CR> <Esc> k$ q           |
-| M-b <Backspace> <RET>            | 8@q :w<CR>                       |
+| C-e <DEL> F3               | qq F,s <CR> <Esc> k$ q           |
+| M-b <DEL> <RET>            | 8@q :w<CR>                       |
 | C-p C-e F4 C-8 F4 C-x C-s        |                                  |
 |----------------------------------+----------------------------------|
 | C-2 C-k  M-% C-q C-j <RET> <RET> | dj 3gJ :%s/,/\r/g <CR> dd :w<CR> |
-| ! <Backspace> C-a M-% , <RET>    |                                  |
+| ! <DEL> C-a M-% , <RET>    |                                  |
 | C-q C-j <RET> ! C-x C-s          |                                  |
 |----------------------------------+----------------------------------|
 ```
