@@ -16,7 +16,7 @@
 
 # Word frequency alignment
 
-You've got to align the second column, but the spacing is inconvenient and there are nasty tabs in the way. If you're a "real Vim ninja," this could be very quick indeed...
+You've got to align the second column, but the spacing is inconvenient and there are nasty TABs in the way. If you're a "real Vim ninja," this could be very quick indeed...
 
 **Start file**
 
