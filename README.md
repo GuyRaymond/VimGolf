@@ -32,5 +32,5 @@ M-x cd<RET> problem_name<RET>
 
 C-x C-f outputemacs.txt<RET>
 
-C-x i input.txt
+C-x i input.txt<RET>
 ```
