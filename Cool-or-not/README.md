@@ -22,7 +22,7 @@ This is also abc.
 This abc is cool.
 This abc is so cool.
 This is a simple abc.
-This isn&#39;t a cool abc.
+This isn't a cool abc.
 This abc is not as cool as used to be.
 This abc really is cool.
 This abc is not so cool
@@ -37,7 +37,7 @@ This is also abc.
 This abcool is cool.
 This abcool is so cool.
 This is a simple abc.
-This isn&#39;t a cool abc.
+This isn't a cool abc.
 This abc is not as cool as used to be.
 This abcool really is cool.
 This abc is not so cool
