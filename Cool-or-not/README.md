@@ -3,11 +3,11 @@
 [Cool or not?][to solve]
 
 ```
-|-------+------|
-| emacs | GVIM |
-|-------+------|
-|       |      |
-|-------+------|
+|-------+----------|
+| emacs | GVIM     |
+|-------+----------|
+|       | j,.4j,.Z |
+|-------+----------|
 ```
 
 # Cool or not?
@@ -43,3 +43,4 @@ This abcool really is cool.
 This abc is not so cool
 I finally found a real abc.
 ```
+
