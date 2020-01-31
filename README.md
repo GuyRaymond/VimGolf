@@ -1,45 +1,39 @@
-﻿[to solve]:http://www.vimgolf.com/challenges/5c82a157c82f3900064c82d7
+﻿# VimGolf
+Solve problems from https://vimgolf.com/ with gvim and emacs
 
-[Cool or not?][to solve]
-
-```
-|-------+------|
-| emacs | GVIM |
-|-------+------|
-|       |      |
-|-------+------|
-```
-
-# Cool or not?
-
-abc trying to be cool or not...
-
-**Start file**
+# Start solving a problem
 
 ```
-This is abc.
-This is also abc.
-This abc is cool.
-This abc is so cool.
-This is a simple abc.
-This isn&#39;t a cool abc.
-This abc is not as cool as used to be.
-This abc really is cool.
-This abc is not so cool
-I finally found a real abc.
+cd vimgolf
+
+mkdir problem_name
+
+cd problem_name
+
+create file <input.txt> with the input from VimGolf
+
+create file <output.txt> with the output from VimGolf
 ```
 
-**End file**
+# Open gvim
+```
+:cd problem_name<CR>
+
+:e outputvim.txt<CR>
+
+:r input.txt<CR>
+
+:1d<CR>
+```
+
+
+# Open emacs
 
 ```
-This is abc.
-This is also abc.
-This abcool is cool.
-This abcool is so cool.
-This is a simple abc.
-This isn&#39;t a cool abc.
-This abc is not as cool as used to be.
-This abcool really is cool.
-This abc is not so cool
-I finally found a real abc.
+M-x cd<RET> problem_name<RET>
+
+C-x C-f outputemacs.txt<RET>
+
+C-x i input.txt<RET>
 ```
+

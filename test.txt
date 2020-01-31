@@ -1,5 +1,0 @@
-Employee_name
-
-Revenue_year_to_date
-
-Salary
