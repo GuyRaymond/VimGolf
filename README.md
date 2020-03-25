@@ -21,9 +21,7 @@ create file <output.txt> with the output from VimGolf
 
 :e outputvim.txt<CR>
 
-:r input.txt<CR>
-
-:1d<CR>
+:0r input.txt<CR>
 ```
 
 
